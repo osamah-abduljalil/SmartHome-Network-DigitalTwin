@@ -175,5 +175,5 @@ int main(int argc, char *argv[]) {
     Simulator::Run();
     Simulator::Destroy();
 
-    return 0; // Exit NS-3 after one iteration
+    return 0;
 }
